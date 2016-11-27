@@ -1,7 +1,8 @@
 # Ahead of Time Compilation with Webpack 2 and Angular 2 (TypeScript)
 
 This is a simple example on how to achieve ahead of time compilation with Angular2 using 
-Webpack 2 and the AotPlugin for Webpack.
+Webpack 2 and the AotPlugin for Webpack. There's also an example of how to achive async module loading.
+For a complete skeleton of Angular2 (with Webpack 2, lazy loading, AOT), use my fork of the angular class repo.
 
 ## Steps To Run
 `npm install`
